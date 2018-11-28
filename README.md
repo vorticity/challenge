@@ -7,8 +7,8 @@ Prerequisites
 
 Scraper Instructions
 ====================
-- cd insentia
-- scrapy crawl insentia
+- cd isentia
+- scrapy crawl isentia
 
 API Instructions
 ================
