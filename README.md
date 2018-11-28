@@ -18,7 +18,7 @@ Example Search Queries
 ======================
 - http://127.0.0.1:5000/api/challenge-v1/search?include=hug&exclude=cheese
 - http://127.0.0.1:5000/api/challenge-v1/search?include=hug
-- http://127.0.0.1:5000/api/challenge-v1/search?include=isentia&exclude=zuckerberg+females
+- http://127.0.0.1:5000/api/challenge-v1/search?include=isentia&exclude=zuckerberg+lego
 
 Swagger URL
 ===========
