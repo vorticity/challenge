@@ -28,7 +28,7 @@ API Limitations
 ===============
 - Currently using mongodb text indexing feature for keyword search
 - Currently flattening results of mongodb cursor to a list
-- Search terms are AND not OR
+- Search terms are OR'd together
 
 Future Work
 ===========
