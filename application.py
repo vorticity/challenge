@@ -15,6 +15,7 @@ mongo = PyMongo(application)
 
 
 class Search(Resource):
+    @api.doc(params={'include': 'include search keywords', 'exclude': 'exclude search keywords'})
     def get(self):
         try:
             results = articles.search_by_keyword(
